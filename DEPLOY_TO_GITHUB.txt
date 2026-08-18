@@ -1,0 +1,1 @@
+Upload the complete project contents to the GitHub repository root, including the assets folder. Do not upload only individual image files. Commit to main; Vercel should redeploy automatically.
