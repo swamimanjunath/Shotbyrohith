@@ -1165,3 +1165,26 @@ footer img{
     display:none
   }
 }
+.reel-card.r1 {
+  background-image: url("assets/cinematic.jpeg");
+}
+
+.reel-card.r2 {
+  background-image: url("assets/engagement.jpeg");
+}
+
+.reel-card.r3 {
+  background-image: url("assets/celebration.jpeg");
+}
+
+.reel-card.r4 {
+  background-image: url("assets/car-delivery.jpeg");
+}
+
+.reel-card.r5 {
+  background-image: url("assets/event-highlight.jpeg");
+}
+
+.reel-card.r6 {
+  background-image: url("assets/wedding.jpeg");
+}
